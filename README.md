@@ -87,8 +87,9 @@ Choose which variables to plot.
 ### Randon Forests
 ![](./screenshots/184422.png)
 
-### Predictions
+### Predictions Using Multinomial Logistic Regression Model
 ![](./screenshots/184500.png)
 
+### Predictions Using KNN Model
 ![](./screenshots/184526.png)
 
