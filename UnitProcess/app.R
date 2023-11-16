@@ -5,8 +5,8 @@
 
 
 # load packages and functions
-#library(shiny)
-source(here("00 preloads.R"))
+if (!require("pacman")) utils::install.packages("here", dependencies = TRUE)
+source(here::here("00 preloads.R"))
 
 
 # read data for test purpose
