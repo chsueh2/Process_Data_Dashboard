@@ -59,24 +59,35 @@ shiny::runGitHub("Process_Data_Dashboard", "chsueh2", subdir = "UnitProcess/")
 
 ## Screenshots
 
+### About the app
 ![](./screenshots/183751.png)
 
+### Load Raw Data
 ![](./screenshots/183915.png)
 
+### Data Extraction
 ![](./screenshots/183959.png)
 
+### Plot setup
+Choose which variables to plot.
 ![](./screenshots/184122.png))
 
+### Data Exploration
 ![](./screenshots/184203.png)
 
+### Moldeling Algorithms
 ![](./screenshots/184244.png)
 
+### Model Fitting (Cross Validation): Multinomial Logistic Regression
 ![](./screenshots/184330.png)
 
+### KNN
 ![](./screenshots/184354.png)
 
+### Randon Forests
 ![](./screenshots/184422.png)
 
+### Predictions
 ![](./screenshots/184500.png)
 
 ![](./screenshots/184526.png)
