@@ -27,6 +27,7 @@ R packages used:
 - `randomForest`: random forest algorithm for classification and regression.
 - `ranger`: a fast implementation of random forests 
 - `gbm`: generalized boosted regression models
+- `shiny`: build interactive web applications
 
 ## Workflow
 
