@@ -2,6 +2,12 @@
 
 A Shiny app to load raw process data, perform data extraction and EDA. With the processed data, we train models to make predictions on process outcomes.
 
+For a demo, run the Shiny app from Github repo with the codes below:
+
+```{r}
+shiny::runGitHub("Process_Data_Dashboard", "chsueh2", subdir = "UnitProcess/") 
+```
+
 Key features:
 
 - Shiny Dashboards with Sidebar and Dynamic Tabs
@@ -49,14 +55,6 @@ Files and directories:
 - `/runs`: run data for demo
 - `/screenshots`: screenshots of the app
 - `/UnitProcess`: Shiny app
-
-## App Demo
-
-For a demo, run the Shiny app from Github repo with the codes below:
-
-```{r}
-shiny::runGitHub("Process_Data_Dashboard", "chsueh2", subdir = "UnitProcess/") 
-```
 
 ## Screenshots
 
